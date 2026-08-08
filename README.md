@@ -1,16 +1,18 @@
-## Hi there 👋
+# XEDAB 的 个人主页ヾ(≧▽≦*)o
+---
+- 谁？
+    - 在学Python
+    - 瞎折腾ing……
+- 会什么？
+    - Python
+- 从哪里来？
+    - 中国大陆
+- 语言/Language？
+    - 简中 Simplified Chinese
 
-<!--
-**XEDAB/XEDAB** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/XEDAB/XEDAB/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/XEDAB/XEDAB/output/github-snake.svg" />
+  <img alt="Snake animation" src="https://raw.githubusercontent.com/XEDAB/XEDAB/output/github-snake-dark.svg" />
+</picture>
+（好多 蛇 啊！！！！！！！！！！！！！）
