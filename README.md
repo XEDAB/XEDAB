@@ -4,12 +4,7 @@
     - 在学Python
     - 瞎折腾ing……
 - 会什么？
-    - Python
-- 从哪里来？
-    - 中国大陆
-- 语言/Language？
-    - 简中 Simplified Chinese
-
+    - Python（一丢丢）
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/XEDAB/XEDAB/output/github-snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/XEDAB/XEDAB/output/github-snake.svg" />
